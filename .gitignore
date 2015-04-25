@@ -1,4 +1,13 @@
 # Android
+
+platforms/android/CordovaLib/build/intermediates/classes/release/
+platforms/android/CordovaLib/build/intermediates/incremental/aidl/release/
+platforms/android/CordovaLib/build/intermediates/incremental/mergeAssets/release/
+platforms/android/CordovaLib/build/intermediates/incremental/packageResources/release/
+platforms/android/CordovaLib/build/outputs/aar/CordovaLib-release.aar
+platforms/android/CordovaLib/build/tmp/packageReleaseJar/
+platforms/android/CordovaLib/build/intermediates/bundles/release/
+platforms/android/CordovaLib/build/generated/source/buildConfig/release/
 platforms/android/assets/www
 platforms/android/bin/
 platforms/android/gen/
@@ -7,6 +16,7 @@ platforms/android/res/xml/config.xml
 *.swp
 *.bin 
 *.lock
+*.jar
 
 # iOS
 platforms/ios/build/
