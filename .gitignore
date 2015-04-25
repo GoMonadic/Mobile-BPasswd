@@ -4,7 +4,9 @@ platforms/android/bin/
 platforms/android/gen/
 platforms/android/res/xml/config.xml
 *.lock
-*.swp 
+*.swp
+*.bin 
+*.lock
 # iOS
 platforms/ios/build/
 platforms/ios/CordovaLib/build/
