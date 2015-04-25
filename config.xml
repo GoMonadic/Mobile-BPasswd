@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="sexy.gebert" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="sexy.gebert" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Mobile BPasswd</name>
-    <icon src="res/icon.png" />
+    <icon src="res/logo.png" />
     <description>
        A simple port of the excellent BPasswd browser plugin. 
     </description>
