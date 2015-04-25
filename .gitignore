@@ -7,6 +7,7 @@ platforms/android/res/xml/config.xml
 *.swp
 *.bin 
 *.lock
+
 # iOS
 platforms/ios/build/
 platforms/ios/CordovaLib/build/
@@ -16,3 +17,9 @@ platforms/ios/.staging
  
 # Emulator logs
 platforms/ios/cordova/console.log
+
+# NPM
+npm-debug.log
+node_modules/
+!/node_modules/
+!src/node_modules/
